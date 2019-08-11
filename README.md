@@ -1,6 +1,6 @@
 # Markdown
 ## used for
-* readme files(Github, etc)
+* readme files (Github, etc)
 * forum & blog posts
 * many static site generators
 ## can format
