@@ -3,17 +3,7 @@
 * readme files (Github, etc)
 * forum & blog posts
 * many static site generators
-## can format
-* headings
-* blocks of code
-* lists, images
-* emphasis
-* blockquotes
-* links
-* horizontal rules
-
 I Use VSCode with "Auto-Open Markdown Preview" extension
-
 
 [Markdown Crash Course](https://youtu.be/HUBNt18RFbo "Traversmedia.com")
 
@@ -26,14 +16,14 @@ I Use VSCode with "Auto-Open Markdown Preview" extension
 ###### Heading 6
 
 <!-- Italics -->
-*This text* is italic
+*This text* is italic (emphasis)
 
-_This text_ is italic
+_This text_ is italic (emphasis)
 
 <!-- Strong -->
-**This text** is bold
+**This text** is bold (strong)
 
-__This text__ is bold
+__This text__ is bold (strong)
 
 <!-- Strikethrough -->
 ~~This text~~ is strikethrough
